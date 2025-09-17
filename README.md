@@ -1,3 +1,6 @@
+Author : https://github.com/BilalBouizdouzene/chatbot-rag/tree/main
+
+
 # 🤖 Assistant Intelligent RAG Multimodal
 
 Projet de Master : **Assistant Intelligent Multimodal basé sur Retrieval-Augmented Generation (RAG)** 
